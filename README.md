@@ -10,3 +10,7 @@ weather.bpmn
 
 
 
+See also:\
+https://tproger.ru/articles/modelirovanie-biznes-processov-praktika-ispolzovanija-camunda-bpm-v-java-razrabotke/ \
+https://habr.com/ru/companies/simbirsoft/articles/657697/ \
+https://www.baeldung.com/spring-boot-embedded-camunda \
